@@ -1,0 +1,38 @@
+
+body{
+    background-color:lightgray;
+}
+.calculator{
+    text-align: center;
+    margin-top: 23px;;
+}
+table{
+    margin:auto;
+}
+input{
+    font-size: 34px;
+    border:5px solid black;
+    border-radius: 15px;
+    height:65px;
+    width:455px;
+}
+button{
+    font-size: 45px;
+    background-color:grey;
+    width:104px;
+    height:85px;
+    border-radius: 20px;
+    margin:6px;
+}
+.box{
+    display:inline-block;
+    padding:23px;
+    background-color: rgb(33, 33, 27);
+    border-radius: 50px;
+    border:2px solid grey;
+   
+}
+h1{
+    font-size: 45px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
